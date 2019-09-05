@@ -10,7 +10,7 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 | [LFSD](https://pan.baidu.com/s/1KcUchn2yx6VHSjch_5-ojw)  |
 | [HFUT](https://pan.baidu.com/s/1QoAwEn6-wkx10KQGB1S2yA)  |
 
-**Note:** Several samples can't synthesize 12 focal slices on LFSD, and so LFSD only contains 93 samples.
++ Note: Several samples can't synthesize 12 focal slices on LFSD, and so LFSD only contains 93 samples.
   
 
 ### Citation

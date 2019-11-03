@@ -2,7 +2,7 @@
 Code repository for our paper entilted "Memory-oriented Decoder for Light Field Salient Object Detection" accepted at NeurIPS 2019 (poster).
 + [Paper] Coming soon.
 + [Code] Coming soon.
-+ [poster] A brief explanation for paper
++ [poster] [A brief explanation](https://pan.baidu.com/s/1uJfrfolJfID8PS7dRPzFJg) for paper
 + [Dataset] The dataset link can be found [here](https://github.com/OIPLab-DUT/DUT-LFSD-Dataset).
 
 ### Results

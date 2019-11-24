@@ -6,9 +6,9 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 
 ### Datasets
 + Dataset: DUTLF
-1. This dataset consists of DUTLF-FS(focal stack), DUTLF-MV(multiple view images), DUTLF-Depth(depth image)
+1. This dataset consists of DUTLF-MV, DUTLF-FS, DUTLF-Depth.
 2. The dataset will be expanded to 3000 about real scenes.
-3. We are working on it and will make it publicly available soon.
+3. We are working on it and will make it publicly available soon. 
 + Dataset: DUTLF-FS
 1. DUTLF-FS is part of DUTLF dataset captured by Lytro camera, yet our dataset mainly rely on **focal stack** in light field for accurate salient object detection.   
 2. A large scale light field saliency dataset(DUTLF-FS) with 1465 paired images contains focal stack and RGB images. In addition, the dataset download link is [here](https://pan.baidu.com/s/1hq135pTjbwuda0VMocOsxw) and the fetch code is  vecy. 

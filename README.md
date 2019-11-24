@@ -1,5 +1,5 @@
 # MoLF-NeurIPS19
-Code repository for our paper entilted "Memory-oriented Decoder for Light Field Salient Object Detection" accepted at NeurIPS 2019 (poster).
+Code repository for our paper entilted "Memory-oriented Decoder for Light Field Salient Object Detection".
 + [Code] You can found in this [link](https://pan.baidu.com/s/1Hz5uizTuDECL4UbkOoBpDg) and the code is t551. Moreover, the checkpoint is [here](https://pan.baidu.com/s/10krgmANXUicYPI4QiufYKQ) and the code is tjqy.
 + [poster] [A brief explanation](https://pan.baidu.com/s/1uJfrfolJfID8PS7dRPzFJg) for paper
 + [Dataset] Our light field saliency datset(DUTLF-FS) is part of DUTLF. Our DUTLF-FS mainly rely on **focal stacks** in light field.

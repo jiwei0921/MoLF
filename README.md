@@ -7,7 +7,7 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 
 ### Results
 
-| [DUT-LFSD](https://pan.baidu.com/s/143YuO3nNPP9ZrO2ySRaTsw)  |
+| [DUTLF-FS](https://pan.baidu.com/s/143YuO3nNPP9ZrO2ySRaTsw)  |
 | [LFSD](https://pan.baidu.com/s/1KcUchn2yx6VHSjch_5-ojw)  |
 | [HFUT](https://pan.baidu.com/s/1QoAwEn6-wkx10KQGB1S2yA)  |
 

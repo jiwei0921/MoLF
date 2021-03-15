@@ -26,12 +26,13 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 
 ### Citation
 ```
-@InProceedings{Zhang_2019_NeurIPS,       
-   author = {Miao {Zhang} and Jingjing {Li} and Wei {Ji} and Yongri {Piao} and Huchuan {Lu}},   
-   title = {Memory-oriented Decoder for Light Field Salient Object Detection},     
-   booktitle = "NeurIPS",     
-   year = {2019}     
-}  
+@inproceedings{Zhang_2019_MoLF,
+  title={Memory-oriented Decoder for Light Field Salient Object Detection},
+  author={Zhang, Miao and Li, Jingjing and Ji, Wei and Piao, Yongri and Lu, Huchuan},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={896--906},
+  year={2019}
+}
 ```
 
 ### Contact Us

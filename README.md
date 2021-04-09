@@ -36,5 +36,5 @@ Code repository for our paper entilted "Memory-oriented Decoder for Light Field 
 ```
 
 ### Contact Us
-If you have any questions, please contact us ( jiwei521@mail.dlut.edu.cn ).
+If you have any questions, please contact us ( weiji.dlut@gmail.com ).
 
